@@ -18,7 +18,7 @@ Como foi um projeto de 3 dias, não pude focar em criar algum mecanismo com esse
 2 - Ao clicar no botão de pesquisa, disponível no canto superior direito, o aplicativo irá trazer as informações de previsão do tempo para os próximos 5 dias, bem como seu detalhamento por hora do dia*.
 3 - O usuário pode clicar sobre o dia e a hora desejada, e as informações daquele dia/hora serão mostradas no container geral de informações. (Como padrão, sempre a primeira hora do dia será carregada/selecionada como default).
 
-* *O Detalhamento por hora está disponível num intervalo de 3 em 3 horas.
+*O Detalhamento por hora está disponível num intervalo de 3 em 3 horas.
 
 ## Dependências
 - apsl-react-native-button
