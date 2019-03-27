@@ -104,14 +104,6 @@ android {
         versionCode 1
         versionName "1.0"
     }
-    signingConfigs {
-        release {
-            storeFile file('./nicolas-dev-key.keystore')
-            storePassword 'fvffrd287311hce7'
-            keyAlias 'nicolas-key'
-            keyPassword 'w0v1j010790dfill'
-        }
-    }
     splits {
         abi {
             reset()
@@ -124,7 +116,6 @@ android {
         release {
             minifyEnabled enableProguardInReleaseBuilds
             proguardFiles getDefaultProguardFile("proguard-android.txt"), "proguard-rules.pro"
-            signingConfig signingConfigs.release
         }
     }
     // applicationVariants are e.g. debug, release
