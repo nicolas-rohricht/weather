@@ -2,10 +2,10 @@
 
 Projeto Weather, criado como aplicativo teste para a DataInfo.
 
-## Iniciando o projeto
+## Rodando o projeto
 
 Para rodar o projeto, criei um apk assinado por mim.
-Basta baixar o arquivo weather.apk disponível na raiz principal da pasta e instalar em qualquer dispositivo Android. 
+Basta baixar o arquivo weather.apk disponível na raiz do projeto e instalar em qualquer dispositivo Android. 
 OBS: o apk está com o tamanho de aproximadamente 400mb, devido aos vídeos de background que rodam dependendo da condição do tempo fornecida pela API.
 
 Os vídeos estão incluídos como arquivos puros .mp4 dentro do projeto.
